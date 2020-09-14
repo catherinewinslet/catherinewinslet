@@ -29,6 +29,22 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
 * Create websites and web-designs for client by [freelancing](google.com) :computer:
 
 ### Technologies I work with:
+JAVA <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+JAVASCRIPT <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></br>
+HTML <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CSS <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></br>
+PYTHON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+SQL <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></br>
+XML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+JSON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" /></br>
+BASH &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PHP <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></br>
+C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C# <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></br>
+<!--
 ![Java](/images/Java.png)
 ![HTML](/images/Java-1.png)
 ![JS](/images/Java-2.png)
@@ -40,7 +56,8 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
 ![XML](/images/Java-8.png)
 ![C#](/images/Java-9.png)
 ![JSON](/images/Java-10.png)
-![Bash](/images/Java-11.png)
+![Bash](/images/Java-11.png)-->
+
 
 ### My Skills:
 * Communication skills :speech_balloon:
@@ -49,8 +66,9 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
 * Team-player :ok_woman:
 * Highly Organized :pencil: :pen:
 
-### Know more about me: :libra:
-//music (coldplay - paradise)
+### Know more about me: 
+* **Star sign:** Libra :libra:
+* **Favourite song:** [Coldplay - Paradise](https://www.youtube.com/watch?v=1G4isv_Fylg) :two_hearts::two_hearts:
 
 ### Where I'm from:
 =============== :earth_asia: **India** :earth_asia: ==============</br>
