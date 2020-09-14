@@ -29,7 +29,7 @@ put image/animation/my OC
 * Create websites and web-designs for client by [freelancing](google.com) :computer:
 
 ### Technologies I work with:
-![Java](/images/Java.png = 32x32)
+![Java](/images/Java.png =32x32)
 ![HTML](/images/Java-1.png)
 ![JS](/images/Java-2.png)
 ![CSS](/images/Java-3.png)
