@@ -25,7 +25,7 @@ put image/animation/my OC
   * check out some of my recent favourites [here] :point_left:
 * I also teach **Java**(_beginner-intermediate_) to students from both CS/non-CS background :two_women_holding_hands::two_men_holding_hands:
   * [Join my class] or [review student activity].
-* I teach **English** to non-english speakers in Sampoorna **Shiksha Initiative** [Learn-on-Call](google.com) :telephone_receiver: :recycle:
+* I teach **English** to non-english speakers in **Sampoorna Shiksha Initiative** [Learn-on-Call](google.com) :telephone_receiver: :recycle:
 * Create websites and web-designs for client by [freelancing](google.com) :computer:
 
 ### Technologies I work with:
