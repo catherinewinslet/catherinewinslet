@@ -9,7 +9,7 @@
 ## Hey! what's up? I'm Catherine 👋:ok_woman:
 ..but you can call me **Kat** :octocat: </br>
 
-I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and learn during this time of quarantine:clock1030::mask:. I'm currently [open to jobs](catherinewinsletj@gmail.com) for _front-end, full-stack, software developer_ roles where I can use my :sparkles:skills and knowledge:sparkles: to fullest of potential!
+I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and learn during this time of quarantine:clock1030::mask:. I'm currently [open to jobs](https://www.linkedin.com/in/catherine-winslet) for _front-end, full-stack, software developer_ roles where I can use my :sparkles:skills and knowledge:sparkles: to fullest of potential!
 
 <!--put image/animation/my OC-->
 
@@ -29,21 +29,21 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
 * Create websites and web-designs for client by [freelancing](google.com) :computer:
 
 ### Technologies I work with:
-JAVA <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+* JAVA <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-JAVASCRIPT <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></br>
-HTML <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+* JAVASCRIPT <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></br>
+* HTML <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-CSS <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></br>
-PYTHON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+* CSS <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></br>
+* PYTHON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SQL <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></br>
-XML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-JSON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" /></br>
-BASH &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-PHP <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></br>
-C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-C# <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></br>
+* SQL <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></br>
+* XML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* JSON <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" /></br>
+* BASH &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* PHP <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></br>
+* C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* C# <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></br>
 <!--
 ![Java](/images/Java.png)
 ![HTML](/images/Java-1.png)
