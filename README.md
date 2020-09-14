@@ -12,6 +12,7 @@
 I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and learn during this time of quarantine:clock1030::mask:. I'm currently [open to jobs](https://www.linkedin.com/in/catherine-winslet) for _front-end, full-stack, software developer_ roles where I can use my :sparkles:skills and knowledge:sparkles: to fullest of potential!
 
 <!--put image/animation/my OC-->
+![image](https://github.com/catherinewinslet/catherinewinslet/blob/master/images/Frame_1.png)
 
 ### What I'm doing currently:
 * Working on **hobby projects** during quarantine to make things better for users :relaxed::revolving_hearts:
