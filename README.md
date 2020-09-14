@@ -74,7 +74,7 @@ C# <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3
 =============== :earth_asia: **India** :earth_asia: ==============</br>
 Born and raised in Karnataka, India.. I've been exposed to the variety of culture and food :gem::gem:</br>
 India has taught me many things on mannerisms :blossom: and punctuality :watch:</br>
-=============== :see_no_evil: :hear_no_evil: :speak_no_evil: ===============</br>
+================ :see_no_evil: :hear_no_evil: :speak_no_evil: ==============</br>
 Currently it is monsoon season which is also one of my favourite season :sunny::umbrella::leaves:</br>
 **To all my fellow Indians:** :pray: வணக்கம் :pray: ಶುಭಾಶಯಗಳು :pray: नमस्ते :pray:</br>
 #### Jai Hind!
@@ -92,4 +92,4 @@ Currently it is monsoon season which is also one of my favourite season :sunny::
 ### How to reach me: :shipit:
 * [Linkedin](https://www.linkedin.com/in/catherine-winslet)  <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 * [Personal Website](google.com) :computer: :gem:
-* [E-mail](catherinewinsletj@gmail.com) :speech_balloon:
+* [E-mail](mailto:catherinewinsletj@gmail.com) :speech_balloon:
