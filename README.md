@@ -29,12 +29,18 @@ put image/animation/my OC
 * Create websites and web-designs for client by [freelancing](google.com) :computer:
 
 ### Technologies I work with:
-![Java](/images/logo.png)
-![JavaScript](/images/logo.png)
-![Python](/images/logo.png)
-![](/images/logo.png)
-![](/images/logo.png)
-![](/images/logo.png)
+![Java](/images/Java.png)
+![HTML](/images/Java-1.png)
+![JS](/images/Java-2.png)
+![CSS](/images/Java-3.png)
+![C++](/images/Java-4.png)
+![Python](/images/Java-5.png)
+![PHP](/images/Java-6.png)
+![SQL](/images/Java-7.png)
+![XML](/images/Java-8.png)
+![C#](/images/Java-9.png)
+![JSON](/images/Java-10.png)
+![Bash](/images/Java-11.png)
 
 ### My Skills:
 * Communication skills :speech_balloon:
