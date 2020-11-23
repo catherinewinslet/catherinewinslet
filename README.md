@@ -23,10 +23,10 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
   - [ ] Learning advanced Java concepts and Spring MVC :book:
 * Practicing new techniques in **digital art** :art:
   * check out some of my recent favourites [here] :point_left:
-* I also teach **Java**(_beginner-intermediate_) to students from both CS/non-CS background :two_women_holding_hands::two_men_holding_hands:
+<!-- * I also teach **Java**(_beginner-intermediate_) to students from both CS/non-CS background :two_women_holding_hands::two_men_holding_hands:
   * [Join my class](https://www.google.com/) or [review student activity](https://www.google.com/)
 * I teach **English** to non-english speakers in **Sampoorna Shiksha Initiative** [Learn-on-Call](google.com) :telephone_receiver: :recycle:
-* Create websites and web-designs for client by [freelancing](google.com) :computer:
+* Create websites and web-designs for client by [freelancing](google.com) :computer: -->
 
 ### Technologies I work with:
 JAVA <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
