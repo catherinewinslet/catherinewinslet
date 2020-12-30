@@ -9,7 +9,7 @@
 ## Hey! what's up? I'm Catherine 👋:ok_woman:
 ..but you can call me **Kat** :octocat: </br>
 
-I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and learn during this time of quarantine:clock1030::mask:. I'm currently [open to jobs](https://www.linkedin.com/in/catherine-winslet) for _front-end, full-stack, software developer_ roles where I can use my :sparkles:skills and knowledge:sparkles: to fullest of potential!
+I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and learn during this time of quarantine:clock1030::mask:. I'm currently under full-time training as a **C# .NET Developer** at **Accenture**.
 
 ![image](https://github.com/catherinewinslet/catherinewinslet/blob/master/images/github_readme_animation.gif)
 
@@ -18,11 +18,11 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
   * check out my most recent project [here] :point_left:
 * Brushing up on **languages** and learning new **libraries**:
   - [x] <del>Brushing up on Data Structures and Object-Oriented Programming concepts</del>:books:
-  - [ ] Learning advanced concepts of vanilla JS :icecream:
-  - [ ] Creating and learning with example projects done with REACT JS.
+  - [x] <del>Learning advanced concepts of vanilla JS</del> :icecream:
+  - [ ] Learning fundamentals and advanced topics of .NET framework and C#
   - [ ] Learning advanced Java concepts and Spring MVC :book:
 * Practicing new techniques in **digital art** :art:
-  * check out some of my recent favourites [here] :point_left:
+  * check out some of my recent favourites [here](www.google.com) :point_left:
 <!-- * I also teach **Java**(_beginner-intermediate_) to students from both CS/non-CS background :two_women_holding_hands::two_men_holding_hands:
   * [Join my class](https://www.google.com/) or [review student activity](https://www.google.com/)
 * I teach **English** to non-english speakers in **Sampoorna Shiksha Initiative** [Learn-on-Call](google.com) :telephone_receiver: :recycle:
@@ -44,6 +44,8 @@ BASH &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 PHP <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></br>
 C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 C# <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></br>
+.NET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ADO
 <!--
 ![Java](/images/Java.png)
 ![HTML](/images/Java-1.png)
