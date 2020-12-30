@@ -14,6 +14,7 @@ I'm a recent graduate:mortar_board: of _2020_ looking for fun things to do and l
 ![image](https://github.com/catherinewinslet/catherinewinslet/blob/master/images/github_readme_animation.gif)
 
 ### What I'm doing currently:
+* Under Training as a .NET Application Developer Associate at Accenture.
 * Working on **hobby projects** during quarantine to make things better for users :relaxed::revolving_hearts:
   * check out my most recent project [here] :point_left:
 * Brushing up on **languages** and learning new **libraries**:
